@@ -23,14 +23,6 @@ The project is structured to follow best practices in data science and software 
 - **Exception Handling and Logging**: Custom modules for managing exceptions and logging throughout the project lifecycle.
 - **Testing**: Unit tests and integration tests for code reliability and stability.
 
-## Getting Started
-
-To get started with this project, clone the repository and install the required dependencies:
-
-git clone [your-repository-url]
-cd [project-directory]
-pip install -r requirements.txt
-
 ## Credits
 
 This project was inspired by and has utilized concepts taught by [krishnaik-github]. His [youtube-playlist] provided invaluable insights and guidance.
